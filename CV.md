@@ -1,5 +1,6 @@
 # CV Fizzah Malik
 -----------------
+<img src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAUsAAAAJDgwZTJjYzhmLTlmZDEtNDIxZC1iMDZiLTFkZDEzYzFlMGQwYg.jpg" width="55"> 
 
 
 ## Education
